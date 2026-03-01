@@ -22,7 +22,7 @@ DOMAIN-KEYWORD,animelib
 DOMAIN-KEYWORD,ikianime
 DOMAIN-KEYWORD,anilibria
 # ip for warframe chat
-IP-CIDR,172.232.25.131/32 # ip for warframe chat
+IP-CIDR,172.232.25.131/32,no-resolve
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
