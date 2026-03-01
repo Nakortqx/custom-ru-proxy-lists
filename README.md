@@ -1,1 +1,1 @@
-Routing lists for MetaCubeX subconverter (Clash.Meta) configuration
+Routing lists for MetaCubeX subconverter (Mihomo) configuration
