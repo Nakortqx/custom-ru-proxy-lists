@@ -7,8 +7,8 @@ PROCESS-NAME-REGEX,Aimbeast.*
 PROCESS-NAME,Among Us.exe
 
   # Apex Legends
-PROCESS-NAME,ApexLauncher.exe # Launcher
-PROCESS-NAME,r5apex_dx12.exe # Apex Legends (DX12)
+PROCESS-NAME,ApexLauncher.exe
+PROCESS-NAME,r5apex_dx12.exe
 
   # BattleBit Remastered
 PROCESS-NAME-REGEX,BattleBit.*
@@ -30,12 +30,12 @@ PROCESS-NAME,PartyAnimals.exe
 PROCESS-NAME,PEAK.exe
 
   # PUBG (PlayerUnknown's Battlegrounds)
-PROCESS-NAME,ExecPubg.exe # Launcher
+PROCESS-NAME,ExecPubg.exe
 PROCESS-NAME-REGEX,TslGame.* # Game
 
   # Minecraft
-PROCESS-NAME,javaw.exe # Minecraft (Java Edition)
-PROCESS-NAME,Minecraft.exe  # Minecraft (Bedrock Edition)
+PROCESS-NAME,javaw.exe
+PROCESS-NAME,Minecraft.exe
 
   # FragPunk
 PROCESS-NAME,FragPunk.exe
@@ -51,13 +51,13 @@ PROCESS-NAME,deadlock.exe
 
   # GTA V (online + other multiplayer solutions)
 PROCESS-NAME-REGEX,.*GTA5.* # GTA V / Online
-PROCESS-NAME,altv.exe # alt:V (Majestic RP)
-PROCESS-NAME,altv-webengine.exe # alt:V webengine (Majestic RP)
-PROCESS-NAME,FiveM.exe # FiveM
-PROCESS-NAME-REGEX,(?i).*ragemp.* # RageMP
-PROCESS-NAME-REGEX,(?i).*Majestic.* # Majestic RP
-PROCESS-NAME-REGEX,(?i).*Rockstar.* # Rockstar Games Launcher
-PROCESS-NAME-REGEX,(?i).*SocialClub.* # Rockstar Social Club
+PROCESS-NAME,altv.exe
+PROCESS-NAME,altv-webengine.exe
+PROCESS-NAME,FiveM.exe
+PROCESS-NAME-REGEX,(?i).*ragemp.*
+PROCESS-NAME-REGEX,(?i).*Majestic.*
+PROCESS-NAME-REGEX,(?i).*Rockstar.*
+PROCESS-NAME-REGEX,(?i).*SocialClub.*
 
   # Team Fortress 2
 PROCESS-NAME,tf.exe
@@ -79,39 +79,39 @@ PROCESS-NAME,Quaver.exe
 PROCESS-NAME,VALORANT-Win64-Shipping.exe
 
   # Escape from Tarkov
-PROCESS-NAME,BsgLauncher.exe # EFT Launcher
-PROCESS-NAME,EscapeFromTarkov.exe # Escape From Tarkov 
-PROCESS-NAME,EscapeFromTarkovArena.exe # Escape From Tarkov - Arena
+PROCESS-NAME,BsgLauncher.exe
+PROCESS-NAME,EscapeFromTarkov.exe
+PROCESS-NAME,EscapeFromTarkovArena.exe
 
   # Hunt: Showdown
-PROCESS-NAME,HuntGame.exe # Hunt: Showdown
+PROCESS-NAME,HuntGame.exe
   
   # Античиты (группировка)
-PROCESS-NAME,start_protected_game.exe # Apex Easy, THE FINALS  Anti-Cheat
-PROCESS-NAME,BattleBitEAC.exe # BattleBit EAC
-PROCESS-NAME,EasyAntiCheat.exe # Easy Anti-Cheat
-PROCESS-NAME,TslGame_BE.exe # PUBG BattleEye
-PROCESS-NAME,TslGame_ZK.exe # PUBG Anti-Cheat module
-PROCESS-NAME-REGEX,(?i).*Vanguard.* # Valorant Vanguard Anti-Cheat
-PROCESS-NAME-REGEX,(?i).*vanguard.* # Vanguard Anti-Cheat (Valorant, League of Legends)
-PROCESS-NAME,vgc.exe  # Vanguard Anti-Cheat (Valorant, League of Legends)
-PROCESS-NAME,vgm.exe # Vanguard Anti-Cheat (Valorant, League of Legends)
+PROCESS-NAME,start_protected_game.exe
+PROCESS-NAME,BattleBitEAC.exe
 PROCESS-NAME,EasyAntiCheat.exe
-PROCESS-NAME,denuvo-anti-cheat-update-service.exe  # DENUVO Anticheat
-DOMAIN-SUFFIX,codefusion.technology  # DENUVO Anticheat
-PROCESS-NAME,EscapeFromTarkovArena_BE.exe # Escape From Tarkov - Arena Battle Eye Anticheat
-PROCESS-NAME,EscapeFromTarkov_BE.exe # Escape From Tarkov Battle Eye Anticheat
-PROCESS-NAME,EasyAntiCheat_EOS.exe # Hunt: Showdown Easy Anti-Cheat
-PROCESS-NAME,faceitservice.exe # FaceIT AC
-PROCESS-NAME,faceitclient.exe  # FaceIT AC
-PROCESS-NAME,SGuard64.exe # Anti-Cheat Expert
-PROCESS-NAME,SGuardSvc64.exe # Anti-Cheat Expert
-PROCESS-NAME,SGuardUpdate64.exe # Anti-Cheat Expert
-PROCESS-NAME,ACE-Service64.exe # Anti-Cheat Expert
+PROCESS-NAME,TslGame_BE.exe
+PROCESS-NAME,TslGame_ZK.exe
+PROCESS-NAME-REGEX,(?i).*Vanguard.*
+PROCESS-NAME-REGEX,(?i).*vanguard.*
+PROCESS-NAME,vgc.exe
+PROCESS-NAME,vgm.exe
+PROCESS-NAME,EasyAntiCheat.exe
+PROCESS-NAME,denuvo-anti-cheat-update-service.exe
+DOMAIN-SUFFIX,codefusion.technology
+PROCESS-NAME,EscapeFromTarkovArena_BE.exe
+PROCESS-NAME,EscapeFromTarkov_BE.exe
+PROCESS-NAME,EasyAntiCheat_EOS.exe
+PROCESS-NAME,faceitservice.exe
+PROCESS-NAME,faceitclient.exe
+PROCESS-NAME,SGuard64.exe
+PROCESS-NAME,SGuardSvc64.exe
+PROCESS-NAME,SGuardUpdate64.exe
+PROCESS-NAME,ACE-Service64.exe
 
   # HELLDIVERS 2
 PROCESS-NAME,helldivers2.exe
-PROCESS-NAME,crs-handler.exe # Crash reports
+PROCESS-NAME,crs-handler.exe
 
   # THE FINALS
 PROCESS-NAME,Discovery.exe
@@ -144,7 +144,7 @@ PROCESS-NAME,GenshinImpact.exe
 PROCESS-NAME,ZenlessZoneZero.exe
 PROCESS-NAME,StarRail.exe
 PROCESS-NAME,BH3.exe
-PROCESS-NAME,ZFGameBrowser.exe # In-game webview
+PROCESS-NAME,ZFGameBrowser.exe
 PROCESS-NAME,HYUpdater.exe
 PROCESS-NAME,HYPHelper.exe
 PROCESS-NAME,HYP.exe
@@ -155,7 +155,7 @@ PROCESS-NAME,UmamusumePrettyDerby.exe
   # Wuthering Waves
   # Вува может не получать апдейты без прокси
 #PROCESS-NAME,Wuthering Waves.exe
-#PROCESS-NAME,KRWebView.exe # In-game webview
+#PROCESS-NAME,KRWebView.exe
 #PROCESS-NAME,KRSDKExternal.exe    
 
   # FaceIT website
