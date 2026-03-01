@@ -172,3 +172,6 @@ PROCESS-NAME,MIMESIS.exe
 PROCESS-NAME, Wow.exe
 PROCESS-NAME, Battle.net.exe
 PROCESS-NAME, Agent.exe
+
+# Warframe
+PROCESS-NAME, Warframe.exe
