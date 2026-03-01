@@ -1,55 +1,55 @@
 PROCESS-NAME-REGEX,(?i).*Win64-Shipping.*
 
-  # Aimbeast
+# Aimbeast
 PROCESS-NAME-REGEX,Aimbeast.* 
 
-  # Among Us
+# Among Us
 PROCESS-NAME,Among Us.exe
 
-  # Apex Legends
+# Apex Legends
 PROCESS-NAME,ApexLauncher.exe
 PROCESS-NAME,r5apex_dx12.exe
 
-  # BattleBit Remastered
+# BattleBit Remastered
 PROCESS-NAME-REGEX,BattleBit.*
 
-  # Content Warning
+# Content Warning
 PROCESS-NAME,Content Warning.exe
 
-  # Counter-Strike 2
+# Counter-Strike 2
 PROCESS-NAME,cs2.exe
 
-  # Euro Truck Simulator 2 / American Trucks Simulator
+# Euro Truck Simulator 2 / American Trucks Simulator
 PROCESS-NAME,eurotrucks2.exe
 PROCESS-NAME,amtrucks.exe
 
-  # Party Animals
+# Party Animals
 PROCESS-NAME,PartyAnimals.exe
 
-  # PEAK
+# PEAK
 PROCESS-NAME,PEAK.exe
 
-  # PUBG (PlayerUnknown's Battlegrounds)
+# PUBG (PlayerUnknown's Battlegrounds)
 PROCESS-NAME,ExecPubg.exe
-PROCESS-NAME-REGEX,TslGame.* # Game
+PROCESS-NAME-REGEX,TslGame.*
 
-  # Minecraft
+# Minecraft
 PROCESS-NAME,javaw.exe
 PROCESS-NAME,Minecraft.exe
 
-  # FragPunk
+# FragPunk
 PROCESS-NAME,FragPunk.exe
 
-  # Dead by Daylight
+# Dead by Daylight
 PROCESS-NAME-REGEX,DeadByDaylight.*
 
-  # Dota 2
+# Dota 2
 PROCESS-NAME,dota2.exe
 
-  # Deadlock
+# Deadlock
 PROCESS-NAME,deadlock.exe
 
-  # GTA V (online + other multiplayer solutions)
+# GTA V (online + other multiplayer solutions)
 PROCESS-NAME-REGEX,.*GTA5.* # GTA V / Online
 PROCESS-NAME,altv.exe
 PROCESS-NAME,altv-webengine.exe
@@ -59,34 +59,34 @@ PROCESS-NAME-REGEX,(?i).*Majestic.*
 PROCESS-NAME-REGEX,(?i).*Rockstar.*
 PROCESS-NAME-REGEX,(?i).*SocialClub.*
 
-  # Team Fortress 2
+# Team Fortress 2
 PROCESS-NAME,tf.exe
 PROCESS-NAME,tf_win64.exe
 
-  # Half-Life 2
+# Half-Life 2
 PROCESS-NAME,hl2.exe
 
-  # Rainbow Six Siege
+# Rainbow Six Siege
 PROCESS-NAME,RainbowSix.exe
 
-  # osu!
+# osu!
 PROCESS-NAME,osu!.exe
 
-  # Quaver
+# Quaver
 PROCESS-NAME,Quaver.exe
 
-  # Valorant
+# Valorant
 PROCESS-NAME,VALORANT-Win64-Shipping.exe
 
-  # Escape from Tarkov
+# Escape from Tarkov
 PROCESS-NAME,BsgLauncher.exe
 PROCESS-NAME,EscapeFromTarkov.exe
 PROCESS-NAME,EscapeFromTarkovArena.exe
 
-  # Hunt: Showdown
+# Hunt: Showdown
 PROCESS-NAME,HuntGame.exe
   
-  # Античиты (группировка)
+# Античиты (группировка)
 PROCESS-NAME,start_protected_game.exe
 PROCESS-NAME,BattleBitEAC.exe
 PROCESS-NAME,EasyAntiCheat.exe
@@ -109,37 +109,37 @@ PROCESS-NAME,SGuardSvc64.exe
 PROCESS-NAME,SGuardUpdate64.exe
 PROCESS-NAME,ACE-Service64.exe
 
-  # HELLDIVERS 2
+# HELLDIVERS 2
 PROCESS-NAME,helldivers2.exe
 PROCESS-NAME,crs-handler.exe
 
-  # THE FINALS
+# THE FINALS
 PROCESS-NAME,Discovery.exe
 PROCESS-NAME,Discovery-d.exe
 
-  # Rust
+# Rust
 PROCESS-NAME-REGEX,(?i).*RustClient.*
 
-  # Escape from Tarkov
+# Escape from Tarkov
 PROCESS-NAME,BsgLauncher.exe
 PROCESS-NAME-REGEX,EscapeFromTarkov.*
 
-  # Arena Breakout: Infinite
+# Arena Breakout: Infinite
 PROCESS-NAME,UAGame.exe
 
-  # Marvel Rivals
+# Marvel Rivals
 PROCESS-NAME,MarvelRivals_Launcher.exe
 PROCESS-NAME,Marvel-Win64-Shipping.exe
 
-  # Overwatch 2
+# Overwatch 2
 PROCESS-NAME,Overwatch.exe
 PROCESS-NAME,Battle.net.exe
 PROCESS-NAME,BlizzardBrowser.exe
 
-  # Phasmophobia
+# Phasmophobia
 PROCESS-NAME,Phasmophobia.exe
 
-  # HoYoverse
+# HoYoverse
 PROCESS-NAME,GenshinImpact.exe
 PROCESS-NAME,ZenlessZoneZero.exe
 PROCESS-NAME,StarRail.exe
@@ -149,26 +149,26 @@ PROCESS-NAME,HYUpdater.exe
 PROCESS-NAME,HYPHelper.exe
 PROCESS-NAME,HYP.exe
 
-  # Umamusume: Pretty Derby
+# Umamusume: Pretty Derby
 PROCESS-NAME,UmamusumePrettyDerby.exe
 
-  # Wuthering Waves
-  # Вува может не получать апдейты без прокси
+# Wuthering Waves
+# Вува может не получать апдейты без прокси
 #PROCESS-NAME,Wuthering Waves.exe
 #PROCESS-NAME,KRWebView.exe
 #PROCESS-NAME,KRSDKExternal.exe    
 
-  # FaceIT website
+# FaceIT website
 DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,faceit-cdn.net
 
-  # CyberShoke
+# CyberShoke
 DOMAIN-SUFFIX,cybershoke.net
 
-  # MIMESIS
+# MIMESIS
 PROCESS-NAME,MIMESIS.exe
 
- # BattleNet
+# BattleNet
 PROCESS-NAME, Wow.exe
 PROCESS-NAME, Battle.net.exe
 PROCESS-NAME, Agent.exe
