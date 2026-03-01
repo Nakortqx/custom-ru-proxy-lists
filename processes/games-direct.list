@@ -50,7 +50,7 @@ PROCESS-NAME,dota2.exe
 PROCESS-NAME,deadlock.exe
 
 # GTA V (online + other multiplayer solutions)
-PROCESS-NAME-REGEX,.*GTA5.* # GTA V / Online
+PROCESS-NAME-REGEX,.*GTA5.*
 PROCESS-NAME,altv.exe
 PROCESS-NAME,altv-webengine.exe
 PROCESS-NAME,FiveM.exe
