@@ -294,3 +294,4 @@ PROCESS-NAME,ru.dostavka.workinozon
 PROCESS-NAME-REGEX,.*ozon*
 PROCESS-NAME-REGEX,.*octopod*
 PROCESS-NAME,com.zhiliaoapp.musically
+PROCESS-NAME-REGEX,.*zhiliaoapp*
