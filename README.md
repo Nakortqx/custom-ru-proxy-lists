@@ -1,1 +1,1 @@
-Routing lists for MetaCubeX subconverter (Mihomo) configuration
+routing lists for Mihimo configs
