@@ -26,3 +26,5 @@ payload:
   - DOMAIN-KEYWORD,raidbots
   - DOMAIN-SUFFIX,raidbots.com
   - DOMAIN-SUFFIX,www.raidbots.com
+  - DOMAIN-SUFFIX,warcraftlogs.com
+  - DOMAIN-KEYWORD,warcraftlogs
