@@ -24,3 +24,4 @@ payload:
   - DOMAIN-KEYWORD,anilibria
 # ip for warframe chat
   - IP-CIDR,172.232.25.131/32,no-resolve
+  - DOMAIN-SUFFIX,raidbots.com
