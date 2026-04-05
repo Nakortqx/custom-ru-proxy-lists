@@ -1,0 +1,7 @@
+payload:
+  - PROCESS-NAME,kling.ai.video.chat
+  - PROCESS-NAME,org.telegram.messenger
+  - PROCESS-NAME,com.discord
+  - PROCESS-NAME,com.instagram.android
+  - PROCESS-NAME,com.twitter.android
+  - PROCESS-NAME,com.spotify.music
