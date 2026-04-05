@@ -24,3 +24,5 @@ payload:
   - DOMAIN-KEYWORD,anilibria
   - IP-CIDR,172.232.25.131/32,no-resolve
   - DOMAIN-KEYWORD,raidbots
+  - DOMAIN-SUFFIX,raidbots.com
+  - DOMAIN-SUFFIX,www.raidbots.com
