@@ -28,4 +28,5 @@ payload:
   - DOMAIN-SUFFIX,warcraftlogs.com
   - DOMAIN-KEYWORD,warcraftlogs
   - DOMAIN-SUFFIX,rivalstracker.com
+  - DOMAIN-SUFFIX,l9edating.com
   - IP-CIDR,172.232.25.131/32,no-resolve
