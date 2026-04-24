@@ -1,12 +1,10 @@
 # Domains that need real IP resolution (for Mihomo fake-ip-filter)
 # Managed by Kaneki (OpenClaw agent)
 payload:
-  - clawhub.ai
-  - "*.tavily.com"
-  - duckduckgo.com
-  - "*.duckduckgo.com"
-  - arborio.ru
-  - www.gastronom.ru
-  - lifehacker.ru
-  - en.wikipedia.org
-  - "*.wikipedia.org"
+  - DOMAIN-SUFFIX,+.tavily.com
+  - DOMAIN-SUFFIX,+.duckduckgo.com
+  - DOMAIN-SUFFIX,clawhub.ai
+  - DOMAIN-SUFFIX,+.gastronom.ru
+  - DOMAIN-SUFFIX,lifehacker.ru
+  - DOMAIN-SUFFIX,+.wikipedia.org
+  - DOMAIN-SUFFIX,arborio.ru
