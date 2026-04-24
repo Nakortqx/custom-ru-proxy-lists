@@ -26,3 +26,5 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-KEYWORD,pinterest
+  - DOMAIN-SUFFIX,pinimg.com
+  - DOMAIN-SUFFIX,pexels.com
