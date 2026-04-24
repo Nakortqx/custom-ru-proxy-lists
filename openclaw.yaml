@@ -25,3 +25,4 @@ payload:
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,pinterest.com
+  - DOMAIN-KEYWORD,pinterest
