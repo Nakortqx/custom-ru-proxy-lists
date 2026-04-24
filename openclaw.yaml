@@ -28,3 +28,4 @@ payload:
   - DOMAIN-KEYWORD,pinterest
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pexels.com
+  - DOMAIN-SUFFIX,i.pinimg.com
