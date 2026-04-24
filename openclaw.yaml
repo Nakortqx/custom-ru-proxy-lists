@@ -9,4 +9,4 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,arborio.ru
   - DOMAIN-SUFFIX,povar.ru
-  - DOMAIN,openclaw.ai
+  - DOMAIN-SUFFIX,openclaw.ai
