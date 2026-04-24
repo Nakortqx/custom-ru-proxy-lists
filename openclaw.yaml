@@ -1,11 +1,11 @@
 # Domains that need real IP resolution (for Mihomo fake-ip-filter)
 # Managed by Kaneki (OpenClaw agent)
 payload:
-  - DOMAIN-SUFFIX,+.tavily.com
-  - DOMAIN-SUFFIX,+.duckduckgo.com
+  - DOMAIN-SUFFIX,tavily.com
+  - DOMAIN-SUFFIX,duckduckgo.com
   - DOMAIN-SUFFIX,clawhub.ai
-  - DOMAIN-SUFFIX,+.gastronom.ru
+  - DOMAIN-SUFFIX,gastronom.ru
   - DOMAIN-SUFFIX,lifehacker.ru
-  - DOMAIN-SUFFIX,+.wikipedia.org
+  - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,arborio.ru
   - DOMAIN-SUFFIX,povar.ru
