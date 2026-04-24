@@ -9,4 +9,16 @@ payload:
   - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,arborio.ru
   - DOMAIN-SUFFIX,povar.ru
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google.com.hk
+  - DOMAIN-SUFFIX,search.yahoo.com
+  - DOMAIN-SUFFIX,startpage.com
+  - DOMAIN-SUFFIX,search.brave.com
+  - DOMAIN-SUFFIX,ecosia.org
+  - DOMAIN-SUFFIX,qwant.com
+  - DOMAIN-SUFFIX,wolframalpha.com
+  - DOMAIN-SUFFIX,so.com
+  - DOMAIN-SUFFIX,sogou.com
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,sm.cn
   - DOMAIN-SUFFIX,openclaw.ai
