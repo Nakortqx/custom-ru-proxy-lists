@@ -22,9 +22,12 @@ payload:
   - DOMAIN-KEYWORD,animelib
   - DOMAIN-KEYWORD,ikianime
   - DOMAIN-KEYWORD,anilibria
-  - IP-CIDR,172.232.25.131/32,no-resolve
   - DOMAIN-KEYWORD,raidbots
   - DOMAIN-SUFFIX,raidbots.com
   - DOMAIN-SUFFIX,www.raidbots.com
   - DOMAIN-SUFFIX,warcraftlogs.com
   - DOMAIN-KEYWORD,warcraftlogs
+  - DOMAIN-SUFFIX,rivalstracker.com
+  - DOMAIN-SUFFIX,l9edating.com
+  - DOMAIN-SUFFIX,gamedrive.org
+  - IP-CIDR,172.232.25.131/32,no-resolve
